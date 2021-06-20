@@ -1,0 +1,22 @@
+{
+  "name": "renpy_textmate_converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wancup/renpy_textmate_converter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wancup/renpy_textmate_converter/issues"
+  },
+  "homepage": "https://github.com/wancup/renpy_textmate_converter#readme",
+  "dependencies": {
+    "cson": "^7.20.0"
+  }
+}
