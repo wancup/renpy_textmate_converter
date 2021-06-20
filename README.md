@@ -27,7 +27,7 @@ git clone --recursive [URL]
 bash convert.sh
 ```
 
-3. Load the bundle in PyCharm. FYI: [Use TextMate bundles](https://www.jetbrains.com/help/idea/tutorial-using-textmate-bundles.html)
+3. Load the generated bundle (```./dist/renpy.tmbundle```) in PyCharm. FYI: [Use TextMate bundles](https://www.jetbrains.com/help/idea/tutorial-using-textmate-bundles.html)
 4. (Optional) Add linter and run configuration to IDE (Ref: [Finally, Ren'Py and PyCharm working together...](https://marquiskurt.net/2019/08/19/post.html)).
 
 ## Specify Plugin Version
